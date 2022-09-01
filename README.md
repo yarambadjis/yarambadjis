@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @yarambadjis
 - 👀 I’m interested in R, RStudio, SQL, Python and just about anything that has to do with data.
 - 🌱 I’m currently learning R, SQL and Python
-- 💞️ I’m looking to collaborate on population health projects, I studied public health in graduate school! I've also worked on an actuarial team and know a bit about finance.
+- 💞️ I'm interested in population health, actuarial science and finance
 - 📫 How to reach me yarambadjis@gmail.com or LinkedIn
 
 <!---
